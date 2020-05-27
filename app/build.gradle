@@ -1,2 +1,2 @@
 plugins {
-    i
+    id 'com.android.applic
