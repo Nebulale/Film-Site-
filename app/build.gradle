@@ -10,4 +10,4 @@ plugins {
 kotlin {
     sourceSets {
         debug {
-            kotl
+            kotlin.srcDir("build/gener
