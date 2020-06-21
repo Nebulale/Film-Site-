@@ -13,4 +13,4 @@ kotlin {
             kotlin.srcDir("build/generated/ksp/debug/kotlin")
         }
         release {
-            k
+            kotlin.srcDir("bui
