@@ -10,4 +10,5 @@ plugins {
 kotlin {
     sourceSets {
         debug {
-            kotlin.srcDir("build/gener
+            kotlin.srcDir("build/generated/ksp/debug/kotlin")
+  
