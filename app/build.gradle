@@ -12,4 +12,5 @@ kotlin {
         debug {
             kotlin.srcDir("build/generated/ksp/debug/kotlin")
         }
-        relea
+        release {
+            k
