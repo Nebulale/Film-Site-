@@ -21,4 +21,5 @@ kotlin {
 android {
     compileSdk 32
 
-    default
+    defaultConfig {
+    
