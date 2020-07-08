@@ -24,4 +24,5 @@ android {
     defaultConfig {
         applicationId "com.tutorial.stockmarketapp"
         minSdk 21
-     
+        targetSdk 32
+        
