@@ -25,4 +25,5 @@ android {
         applicationId "com.tutorial.stockmarketapp"
         minSdk 21
         targetSdk 32
-        
+        versionCode 1
+        versio
