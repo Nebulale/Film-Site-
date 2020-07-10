@@ -26,4 +26,6 @@ android {
         minSdk 21
         targetSdk 32
         versionCode 1
-        versio
+        versionName "1.0"
+
+        t
