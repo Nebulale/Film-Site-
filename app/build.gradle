@@ -34,4 +34,4 @@ android {
     buildTypes {
         release {
             minifyEnabled false
-            proguard
+            proguardFiles getDefa
