@@ -38,4 +38,4 @@ android {
         }
     }
     compileOptions {
-        coreLibraryDesug
+        coreLibraryDesugaringEnabled t
