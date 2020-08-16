@@ -39,4 +39,4 @@ android {
     }
     compileOptions {
         coreLibraryDesugaringEnabled true
-        sourceCompatibi
+        sourceCompatibility JavaVersion.VERSION_1_
