@@ -48,4 +48,5 @@ android {
     buildFeatures {
         compose true
     }
-    composeOptions 
+    composeOptions {
+        kotlinCompilerEx
