@@ -49,4 +49,4 @@ android {
         compose true
     }
     composeOptions {
-        kotlinCompilerEx
+        kotlinCompilerExtensionVersio
