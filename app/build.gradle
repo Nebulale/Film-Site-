@@ -53,4 +53,4 @@ android {
     }
     packagingOptions {
         resources {
-            exclud
+            excludes += '/META-INF/{AL2.0
