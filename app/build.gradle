@@ -52,4 +52,5 @@ android {
         kotlinCompilerExtensionVersion compose_version
     }
     packagingOptions {
-        resources
+        resources {
+            exclud
