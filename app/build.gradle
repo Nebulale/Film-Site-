@@ -76,4 +76,4 @@ dependencies {
     implementation 'com.opencsv:opencsv:5.5.2'
 
     // Compose dependencies
-    implementation "androidx.lifecyc
+    implementation "androidx.lifecycle:lifecycle-viewmo
