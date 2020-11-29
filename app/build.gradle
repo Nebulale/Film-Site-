@@ -77,4 +77,4 @@ dependencies {
 
     // Compose dependencies
     implementation "androidx.lifecycle:lifecycle-viewmodel-compose:2.4.1"
-    implementation "androidx.comp
+    implementation "androidx.compose.material:materia
