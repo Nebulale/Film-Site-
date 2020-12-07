@@ -78,4 +78,5 @@ dependencies {
     // Compose dependencies
     implementation "androidx.lifecycle:lifecycle-viewmodel-compose:2.4.1"
     implementation "androidx.compose.material:material-icons-extended:$compose_version"
-    implementation "com.google.accompanist:accompanist-flowlayout:0
+    implementation "com.google.accompanist:accompanist-flowlayout:0.17.0"
+    implemen
