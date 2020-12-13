@@ -80,4 +80,4 @@ dependencies {
     implementation "androidx.compose.material:material-icons-extended:$compose_version"
     implementation "com.google.accompanist:accompanist-flowlayout:0.17.0"
     implementation 'androidx.paging:paging-compose:1.0.0-alpha14'
-    implementation "androidx.activity:
+    implementation "androidx.activity:activity-compose:1.6.0-
