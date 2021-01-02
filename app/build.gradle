@@ -83,4 +83,5 @@ dependencies {
     implementation "androidx.activity:activity-compose:1.6.0-alpha01"
     implementation "com.google.accompanist:accompanist-swiperefresh:0.24.2-alpha"
 
-    // Compose Nav D
+    // Compose Nav Destinations
+    
