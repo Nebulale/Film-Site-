@@ -84,4 +84,4 @@ dependencies {
     implementation "com.google.accompanist:accompanist-swiperefresh:0.24.2-alpha"
 
     // Compose Nav Destinations
-    implementation 'io.git
+    implementation 'io.github.raamcosta.compose-de
