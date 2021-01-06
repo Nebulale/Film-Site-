@@ -85,4 +85,4 @@ dependencies {
 
     // Compose Nav Destinations
     implementation 'io.github.raamcosta.compose-destinations:core:1.1.2-beta'
-    ksp 'io.github.raamcosta.compose-de
+    ksp 'io.github.raamcosta.compose-destinations:ksp:1.1.2-bet
