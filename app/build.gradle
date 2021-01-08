@@ -90,3 +90,4 @@ dependencies {
     // Coil
     implementation "io.coil-kt:coil-compose:1.4.0"
 
+    //Dagger - Hil
