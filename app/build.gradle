@@ -108,4 +108,4 @@ dependencies {
     kapt "androidx.room:room-compiler:2.4.2"
 
     // Kotlin Extensions and Coroutines support for Room
-    imple
+    implementation "androidx.room:room-kt
