@@ -12,4 +12,5 @@
 #   public *;
 #}
 
-# Uncomment this to preserve the line number inf
+# Uncomment this to preserve the line number information for
+# d
