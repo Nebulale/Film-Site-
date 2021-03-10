@@ -1,3 +1,3 @@
 package com.tutorial.stockmarketapp
 
-import androidx.test.platform.app.
+import androidx.test.platform.app.InstrumentationReg
