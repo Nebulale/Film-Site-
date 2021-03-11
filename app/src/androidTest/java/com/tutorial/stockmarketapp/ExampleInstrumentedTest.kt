@@ -1,4 +1,4 @@
 package com.tutorial.stockmarketapp
 
 import androidx.test.platform.app.InstrumentationRegistry
-import androidx.test
+import androidx.test.ext.junit.runn
