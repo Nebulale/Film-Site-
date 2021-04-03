@@ -1,1 +1,1 @@
-package com.tut
+package com.tutorial.stockmarket
