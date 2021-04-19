@@ -9,4 +9,4 @@ import androidx.compose.material.Surface
 import androidx.compose.ui.Modifier
 import com.tutorial.stockmarketapp.ui.theme.StockMarketAppTheme
 
-class MainAct
+class MainActivity : ComponentA
