@@ -10,4 +10,4 @@ import androidx.compose.ui.Modifier
 import com.tutorial.stockmarketapp.ui.theme.StockMarketAppTheme
 
 class MainActivity : ComponentActivity() {
-    override fun onCreate(sav
+    override fun onCreate(savedInstanceState: Bundle?
