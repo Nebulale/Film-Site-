@@ -15,4 +15,4 @@ class MainActivity : ComponentActivity() {
         setContent {
             StockMarketAppTheme {
                 Surface(
-                    mod
+                    modifier = Modifier.fillMaxS
