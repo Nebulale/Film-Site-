@@ -16,4 +16,4 @@ class MainActivity : ComponentActivity() {
             StockMarketAppTheme {
                 Surface(
                     modifier = Modifier.fillMaxSize(),
-                    color = Mate
+                    color = MaterialTheme.colors.backgrou
