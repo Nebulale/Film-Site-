@@ -1,4 +1,5 @@
 package com.tutorial.stockmarketapp.ui.theme
 
 import androidx.compose.material.Typography
-import androidx.compose.ui.text.TextStyl
+import androidx.compose.ui.text.TextStyle
+import androidx.comp
