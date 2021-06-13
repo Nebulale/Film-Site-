@@ -15,4 +15,5 @@ val Typography = Typography(
     )
     /* Other default text styles to override
     button = TextStyle(
-        fontFamily = FontFamily.
+        fontFamily = FontFamily.Default,
+        fontWei
