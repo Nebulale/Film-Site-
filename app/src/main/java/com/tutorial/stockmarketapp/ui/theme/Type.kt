@@ -19,3 +19,4 @@ val Typography = Typography(
         fontWeight = FontWeight.W500,
         fontSize = 14.sp
     ),
+    caption = TextS
