@@ -20,4 +20,5 @@ val Typography = Typography(
         fontSize = 14.sp
     ),
     caption = TextStyle(
-        fontFamily = FontFamily.De
+        fontFamily = FontFamily.Default,
+        
