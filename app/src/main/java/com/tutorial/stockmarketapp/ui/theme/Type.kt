@@ -21,4 +21,4 @@ val Typography = Typography(
     ),
     caption = TextStyle(
         fontFamily = FontFamily.Default,
-        
+        fontWeight = FontWeight.Normal,
