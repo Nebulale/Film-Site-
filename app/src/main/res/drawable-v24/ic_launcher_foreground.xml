@@ -21,4 +21,5 @@
             </gradient>
         </aapt:attr>
     </path>
-    
+    <path
+        android:fillCo
