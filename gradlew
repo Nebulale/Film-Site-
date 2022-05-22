@@ -65,4 +65,5 @@ cygwin=false
 msys=false
 darwin=false
 nonstop=false
-case "`una
+case "`uname`" in
+  CYGWIN*
