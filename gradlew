@@ -69,4 +69,5 @@ case "`uname`" in
   CYGWIN* )
     cygwin=true
     ;;
-  Da
+  Darwin* )
+    darwin=true
