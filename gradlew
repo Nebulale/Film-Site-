@@ -80,4 +80,4 @@ case "`uname`" in
     ;;
 esac
 
-CLA
+CLASSPATH=$APP_HOME/gradl
