@@ -133,4 +133,4 @@ if [ "$cygwin" = "true" -o "$msys" = "true" ] ; then
 
     JAVACMD=`cygpath --unix "$JAVACMD"`
 
-    # We build the patte
+    # We build the pattern for arguments to be 
