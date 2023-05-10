@@ -174,3 +174,4 @@ fi
 
 # Escape application args
 save () {
+    for i do pri
